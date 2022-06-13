@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\cartgamecpp\\cartgamecpp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\intermediate\\build\\win64\\cartgamecppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\intermediate\\build\\win64\\unrealeditor\\development\\cartgamecpp\\definitions.cartgamecpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

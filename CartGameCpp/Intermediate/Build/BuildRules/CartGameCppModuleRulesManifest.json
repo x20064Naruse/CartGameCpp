@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ue4_project\\CartGameCpp\\CartGameCpp\\Source\\CartGameCpp\\CartGameCpp.Build.cs",
+		"D:\\ue4_project\\CartGameCpp\\CartGameCpp\\Source\\CartGameCpp.Target.cs",
+		"D:\\ue4_project\\CartGameCpp\\CartGameCpp\\Source\\CartGameCppEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

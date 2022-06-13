@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CartGameCpp",
+			"Path": "D:\\ue4_project\\CartGameCpp\\CartGameCpp\\Source\\CartGameCpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CartGameCppEditor",
+			"Path": "D:\\ue4_project\\CartGameCpp\\CartGameCpp\\Source\\CartGameCppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

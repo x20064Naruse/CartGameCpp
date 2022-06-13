@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\source\\cartgamecpp\\cartgamecppgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\intermediate\\build\\win64\\cartgamecppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\intermediate\\build\\win64\\unrealeditor\\development\\cartgamecpp\\definitions.cartgamecpp.h",
+            "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\source\\cartgamecpp\\cartgamecppgamemode.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\cartgamecpp\\cartgamecppgamemode.generated.h",
+            "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\source\\cartgamecpp\\cartgamecppcharacter.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\ue4_project\\cartgamecpp\\cartgamecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\cartgamecpp\\cartgamecppcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
