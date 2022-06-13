@@ -712,3 +712,28 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.13-04.58.55:948][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.06.13-05.00.46:130][720]LogDerivedDataCache: C:/Users/yoy11/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.066 and deleted 0 file(s) with total size 0 MiB.
 [2022.06.13-05.02.33:856][210]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
+[2022.06.13-05.07.17:604][331]LogViewport: Scene viewport resized to 1526x611, mode Windowed.
+[2022.06.13-05.07.18:489][412]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
+[2022.06.13-05.07.18:888][412]LogViewport: Scene viewport resized to 753x607, mode Windowed.
+[2022.06.13-05.07.25:572][990]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.06.13-05.10.30:573][676]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8101643E0F414934AF6BB3484EE7582FC67A5857), compiling. 
+[2022.06.13-05.10.33:430][906]LogShaderCompilers: Display: ================================================
+[2022.06.13-05.10.33:430][906]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.13-05.10.33:430][906]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.06.13-05.10.33:430][906]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.06.13-05.10.33:430][906]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.06.13-05.10.33:430][906]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.13-05.10.33:430][906]LogShaderCompilers: Display: Shaders Compiled: 2
+[2022.06.13-05.10.33:430][906]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.08 s
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: Job execution time: average 2.45 s, max 2.45 s
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: Job life time (pending + execution): average 2.51 s, max 2.51
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.51 s
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: Average processing rate: 0.40 jobs/sec
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: Effective parallelization: 0.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2022.06.13-05.10.33:434][906]LogShaderCompilers: Display: ================================================
